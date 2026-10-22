@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+  <title id="title">Legendary747</title>
+  <desc id="desc">Practical tools for housing, mobility and data. A dark blue banner with a house and a route diagram.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#152b43"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#54d7cf"/>
+      <stop offset="1" stop-color="#8da4ff"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#34516b" stroke-width=".7" opacity=".35"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="280" rx="18" fill="url(#bg)"/>
+  <path d="M650 0H982A18 18 0 0 1 1000 18V262A18 18 0 0 1 982 280H650Z" fill="url(#grid)"/>
+  <rect x="45" y="46" width="34" height="4" rx="2" fill="#54d7cf"/>
+  <text x="92" y="53" fill="#9eb6cd" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2.5">HOUSING / MOBILITY / DATA</text>
+  <text x="42" y="128" fill="#f2f6fc" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700" letter-spacing="-2">Legendary747</text>
+  <text x="45" y="174" fill="#c1d1e1" font-family="Arial, Helvetica, sans-serif" font-size="22">Useful software for everyday decisions.</text>
+  <text x="45" y="225" fill="#8ea8c0" font-family="Arial, Helvetica, sans-serif" font-size="14">Build. Measure. Improve.</text>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="704" y="40" width="106" height="100" rx="18" fill="#142b3e" stroke="#315168" stroke-width="1.5"/>
+    <path d="M727 88L757 63L787 88M735 82V116H779V82M750 116V97H764V116" stroke="#54d7cf" stroke-width="3"/>
+    <path d="M757 154V192Q757 210 775 210H885Q907 210 907 188V121" stroke="url(#accent)" stroke-width="3" stroke-dasharray="5 8"/>
+    <circle cx="757" cy="154" r="5" fill="#54d7cf" stroke="#0b1220" stroke-width="2"/>
+    <circle cx="907" cy="103" r="19" fill="#15273f" stroke="#8da4ff" stroke-width="2"/>
+    <circle cx="907" cy="103" r="5" fill="#8da4ff"/>
+    <path d="M893 117L907 135L921 117" stroke="#8da4ff" stroke-width="2"/>
+    <circle cx="827" cy="210" r="5" fill="#7bbbea" stroke="#0b1220" stroke-width="2"/>
+  </g>
+  <rect x="45" y="260" width="910" height="2" rx="1" fill="url(#accent)" opacity=".65"/>
+</svg>
